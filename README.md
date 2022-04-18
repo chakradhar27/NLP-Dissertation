@@ -1,4 +1,4 @@
-1. The Noun compound datasets and the manual generated inference datasets are present in the 'Datasets' folder.
+1. The Noun compound datasets and the manual generated inference datasets are present in the 'Datasets' folder/rar.
 
 2. The custom DataProcessor and the PVP objects are added within the pet-master directory and the train-unlabelled datasets used for the experiment can be found inside the 'PET' folder.
 
